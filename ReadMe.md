@@ -1,5 +1,7 @@
-# 💫 About Me:
-I'm Manuella, 23 years old and a software developer passionate about learning and discovering new technologies.
+<div align="center">
+  # 💫 About Me:
+  I'm Manuella, 23 years old and a software developer passionate about learning and discovering new technologies.
+</div>
 
 
 ## 🌐 Socials:
