@@ -1,8 +1,5 @@
-<div align="center">
-  # 💫 About Me:
-  I'm Manuella, 23 years old and a software developer passionate about learning and discovering new technologies.
-</div>
-
+# 💫 About Me:
+I'm Manuella, 23 years old and a software developer passionate about learning and discovering new technologies.
 
 ## 🌐 Socials:
 <a href="https://www.instagram.com/manuggetts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="linkedin.com/in/manuella-oliveira-02b369192/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
