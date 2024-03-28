@@ -1,8 +1,8 @@
-[![Banner](https://i.imgur.com/FEXNCOu.png)](https://github.com/manuggetts)
+# Hello! I'm Manuella 👋
 
-<h1 align="center">
-Technology Stack :computer:
-</h1>
+I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 23 years old, I am constantly looking to learn and explore new technologies.
+
+## Technology Stack 💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -16,7 +16,7 @@ Technology Stack :computer:
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">
 </p>
 
-<h1 align="center">My GitHub Stats :bar_chart:</h1>
+## My GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
