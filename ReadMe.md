@@ -20,7 +20,7 @@ I'm a technology enthusiast with experience in software development, databases, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
 </p>
 
