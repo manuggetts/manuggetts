@@ -2,7 +2,7 @@
 
 I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 23 years old, I am constantly looking to learn and explore new technologies.
 
-#### Check my Portfolio <a href="https://manuggetts.github.io/portfolio/" target="_blank">here</a> 🚀
+#### Check my <a href="https://manuggetts.github.io/portfolio/" target="_blank">Portfolio</a> 🚀
 
 ## Technology Stack 🛠️
 
