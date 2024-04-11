@@ -2,10 +2,12 @@
 
 I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 23 years old, I am constantly looking to learn and explore new technologies.
 
+#### Check my Portfolio <a href="https://manuggetts.github.io/portfolio/" target="_blank">here</a> 🚀
+
 ## Technology Stack 🛠️
 
 <div align="center">
-  <h3>Análise de Dados 📊</h3>
+  <h3>Data Analysis 📊</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">
@@ -15,7 +17,7 @@ I'm a technology enthusiast with experience in software development, databases, 
 </div>
 
 <div align="center">
-  <h3>Programação 💻</h3>
+  <h3>Programming 💻</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -32,13 +34,10 @@ I'm a technology enthusiast with experience in software development, databases, 
   <tr>
     <td align="center">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
