@@ -29,20 +29,11 @@
 
 ## My GitHub Stats 📈
 
-<table cellpadding="0" align="center">
-  <tr>
-    <td align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
+<div align=center>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manuggetts&color=6A0DAD" alt="Profile Views">
