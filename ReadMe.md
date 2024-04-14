@@ -1,4 +1,3 @@
-
 ![Profile Header](https://github.com/manuggetts/manuggetts/assets/141872152/b8d33d13-c1b3-4f5d-8296-53bcc9a48026)
 
 <h2 align="center"> Check my <a href="https://manuggetts.github.io/portfolio/" target="_blank">Portfolio</a> 🚀 </h2>
