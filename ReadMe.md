@@ -1,4 +1,8 @@
-![Profile Header](https://github.com/manuggetts/manuggetts/assets/141872152/b8d33d13-c1b3-4f5d-8296-53bcc9a48026)
+# Hello! I'm Manuella 👋
+
+I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 23 years old, I am constantly looking to learn and explore new technologies.
+
+> *"If I cannot do great things, I can do small things in a great way."*
 
 <h2 align="center"> Check my <a href="https://manuggetts.github.io/portfolio/" target="_blank">Portfolio</a> 🚀 </h2>
 
