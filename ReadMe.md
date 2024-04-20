@@ -33,7 +33,7 @@ I'm a technology enthusiast with experience in software development, databases, 
 ## My GitHub Stats 📈
 
 <div align=center>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=5&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
 </div>
