@@ -12,7 +12,7 @@ I'm a technology enthusiast with experience in software development, databases, 
   <h3>Data Analysis 📊</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">
     <img src="https://img.shields.io/badge/Figma-%237E4DD2?style=for-the-badge&logo=figma&logoColor=red" alt="Figma">
   </p>
