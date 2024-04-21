@@ -1,6 +1,6 @@
 # Hello! I'm Manuella 👋
 
-I'm a technology enthusiast with experience in software development, databases, and currently diving into the world of data analysis. At 23 years old, I am constantly looking to learn and explore new technologies.
+I'm a technology enthusiast with experience in software development, process automation, databases, and currently diving into the world of data analysis. At 23 years old, I am constantly looking to learn and explore new technologies.
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
