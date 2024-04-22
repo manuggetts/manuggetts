@@ -4,7 +4,7 @@ I'm a technology enthusiast with experience in software development, process aut
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
-<h2 align="center"> Check my <a href="https://manuggetts.github.io/portfolio/" target="_blank">Portfolio</a> 🚀 </h2>
+<h2 align="center"> Check my <a href="https://manuggetts.github.io/" target="_blank">Portfolio</a> 🚀 </h2>
 
 ## Technology Stack 🛠️
 
