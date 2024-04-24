@@ -18,6 +18,7 @@ I'm a technology enthusiast with experience in software development, process aut
     <img src="https://img.shields.io/badge/Java-CD853F?style=for-the-badge&logo=java&logoColor=black" alt="Java">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </p>
 </div>
 
