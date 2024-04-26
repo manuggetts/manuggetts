@@ -25,11 +25,11 @@ I’m a technology enthusiast with experience in software development, robotic p
 ## My GitHub Stats 📈
 
 <div align=center>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=manuggetts&theme=vision-friendly-dark" alt="GitHub Streak">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff" alt="Most Used Languages">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff&icon_color=F5FF00" alt="GitHub Stats">
+  <img height="200" src="https://streak-stats.demolab.com?user=manuggetts&theme=yellowdark&border_radius=4&background=45%2C000000%2C8511FA&fire=F5FF00&border=EBEBEB&ring=EBEBEB&dates=EBEBEB&stroke=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=F5FF00&sideLabels=F5FF00" alt="GitHub Streak">
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=6A0DAD" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=manuggetts&color=8511fa" alt="Profile Views">
 </p>
