@@ -6,12 +6,12 @@ I’m a technology enthusiast with experience in software development, robotic p
 
 <h2 align="center"> Check my <a href="https://manuggetts.github.io/" target="_blank">Portfolio</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> </h2>
 
-## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
+## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center"/>
 <div align=center>
 <img src="https://skillicons.dev/icons?i=py,qt,selenium,js,html,css,bootstrap,java,mysql,postgres,figma,vscode,git&theme=dark" />
 </div>
 
-## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
+## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
 
 <div align=center>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff" alt="Most Used Languages">
