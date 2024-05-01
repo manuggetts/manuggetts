@@ -13,8 +13,10 @@ I’m a technology enthusiast with experience in software development, robotic p
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />
 
+<div align=center>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=6&layout=compact&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff" alt="Most Used Languages">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff&icon_color=F5FF00" alt="GitHub Stats">
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manuggetts&color=8511fa" alt="Profile Views">
