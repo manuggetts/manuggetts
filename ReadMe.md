@@ -1,6 +1,6 @@
 # Hello! I'm Manuella <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
-I’m a technology enthusiast with experience in software development, robotic process automation, databases, data analysis and currently specializing in Python. At 23 years old, I’m constantly looking to learn and explore new technologies.
+I’m a technology enthusiast with experience in software development, robotic process automation, databases and currently specializing in Python. At 23 years old, I’m constantly looking to learn and explore new technologies.
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
