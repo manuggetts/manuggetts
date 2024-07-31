@@ -8,7 +8,7 @@ I’m a technology enthusiast with experience in software development, robotic p
 
 ## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center"/>
 <div align=center>
-<img src="https://skillicons.dev/icons?i=py,qt,selenium,js,html,css,bootstrap,java,mysql,postgres,figma,vscode,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,qt,selenium,nodejs,js,html,css,bootstrap,java,mysql,figma,vscode,git&theme=dark" />
 </div>
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
