@@ -1,6 +1,6 @@
 # Hello! I'm Manuella <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
-I’m a technology enthusiast with experience in software development, robotic process automation, databases and currently specializing in Python. At 24 years old, I’m constantly looking to learn and explore new technologies.
+I’m a backend developer passionate about Java and software engineering. With experience in software development, robotic process automation, and database management, I am currently honing my skills in backend development, particularly with Spring Boot. At 24 years old, I'm dedicated to continuous learning and exploring new technologies.
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
@@ -8,7 +8,7 @@ I’m a technology enthusiast with experience in software development, robotic p
 
 ## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center"/>
 <div align=center>
-<img src="https://skillicons.dev/icons?i=py,qt,selenium,nodejs,js,html,css,bootstrap,java,mysql,figma,vscode,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,mysql,py,spring,js,html,css,bootstrap,figma,vscode,git&theme=dark" />
 </div>
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
