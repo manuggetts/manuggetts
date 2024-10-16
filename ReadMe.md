@@ -1,6 +1,6 @@
 # Hello! I'm Manuella <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
-I’m a backend developer passionate about Java and software engineering. With experience in software development, robotic process automation, and database management, I am currently honing my skills in backend development, particularly with Spring Boot. At 24 years old, I'm dedicated to continuous learning and exploring new technologies.
+I’m a backend developer focused on JavaScript and Node.js. With experience in software development, robotic process automation (RPA), and database management, I am currently honing my skills in backend development, particularly with Node.js and RESTful APIs. At 24 years old, I'm committed to continuous learning, cloud technologies, and exploring new tools to enhance my skills.
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
