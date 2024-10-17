@@ -8,7 +8,7 @@ I’m a backend developer focused on JavaScript and Node.js. With experience in 
 
 ## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center"/>
 <div align=center>
-<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,py,html,css,bootstrap,java,vscode,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,mysql,py,html,css,bootstrap,vscode,git&theme=dark" />
 </div>
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
