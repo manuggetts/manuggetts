@@ -8,7 +8,7 @@ I’m a Fullstack Developer. With experience in software development, robotic pr
 
 ## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center"/>
 <div align=center>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,html,css,bootstrap,py,vscode,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express,mysql,bootstrap,py,git,postman&theme=dark" />
 </div>
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
