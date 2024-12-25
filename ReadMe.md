@@ -14,7 +14,7 @@ I’m a Fullstack Developer. With experience in software development, robotic pr
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
 
 <div align=center>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=9&layout=compact&bg_color=30,000000,8511fa&title_color=ffffff&text_color=fffff" alt="Most Used Languages">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=9&layout=compact&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff" alt="Most Used Languages">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff&icon_color=F5FF00" alt="GitHub Stats">
 </div>
 
