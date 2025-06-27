@@ -1,6 +1,6 @@
 # Hello! I'm Manuella <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
 
-I’m a Fullstack Developer. With experience in software development, robotic process automation (RPA), and database management, I am currently honing my skills in Fullstack development, particularly with JavaScript, TypeScript, Node.js, React.js and SQL. At 24 years old, I'm committed to continuous learning and exploring new tools to enhance my skills.
+I’m a Fullstack Developer. With experience in software development, robotic process automation (RPA), and database management, I am currently honing my skills in Fullstack development, particularly with JavaScript, TypeScript, Node.js, React.js and SQL. At 25 years old, I'm committed to continuous learning and exploring new tools to enhance my skills.
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
