@@ -1,17 +1,17 @@
-# Hello! I'm Manuella <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
+# Hello! I'm Manuella
 
 I’m a **Back-end Developer** passionate about building APIs, integrations, and automation solutions. I have experience with **Java, Node.js, SQL, Python (RPA)**, and cloud and DevOps tools.  
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
-<h2 align="center"> Check my <a href="https://manuggetts.github.io/" target="_blank">Portfolio</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> </h2>
+<h2 align="center"> Check my <a href="https://manuggetts.github.io/" target="_blank">Portfolio</a> :green_heart: </h2>
 
-## Technology Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center"/>
+## Technology Stack
 <div align=center>
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,python,mysql,git,postman,docker&theme=dark" />
 </div>
 
-## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" align="center"/>
+## GitHub Stats
 <div align=center>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuggetts&langs_count=8&layout=compact&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff" alt="Most Used Languages">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=manuggetts&show_icons=true&theme=vision-friendly-dark&bg_color=30,000000,8511fa&title_color=ffffff&text_color=ffffff&icon_color=F5FF00" alt="GitHub Stats">
