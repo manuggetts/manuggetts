@@ -1,6 +1,6 @@
 # Hello! I'm Manuella
 
-I’m a **Back-end Developer** passionate about building APIs, integrations, and automation solutions. I have experience with **Java, Node.js, SQL, Python (RPA)**, and cloud and DevOps tools.  
+I’m a **Back-end Developer** passionate about building APIs, integrations and automation solutions. 
 
 > *"If I cannot do great things, I can do small things in a great way."*
 
