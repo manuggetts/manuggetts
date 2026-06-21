@@ -8,7 +8,7 @@ I’m a developer passionate about building APIs, integrations and automation so
 
 ## Technology Stack
 <div align=center>
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,azure,java,js,postman,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,aws,mysql,azure,js,postman,docker&theme=dark" />
 </div>
 
 ## GitHub Stats
